@@ -1,0 +1,17 @@
+Como Criar um ambiente virtual em python:
+1 - Executar "python -m venv venv"
+
+python: É o interpretador do Python que será utilizado para executar o comando. 
+-m venv: É um módulo embutido no Python utilizado para criar ambientes virtuais.
+venv: É o nome do diretório que será criado para o ambiente virtual. 
+
+2 - Executar ".\venv\Scripts\activate" para ativar o ambiente
+
+
+Como criar uma pasta para Scrapy:
+1 - Executar "scrapy startproject bookscrapy" para criar a pasta
+
+scrapy = comando da biblioteca
+startproject = vai startar o projeto
+bookscrapy = nome do projeto a ser startado
+
