@@ -63,7 +63,7 @@ Preço:  R$ 28,40
 URL: /canecas-para-sublimacao/1924/6598/6604/canecas-para-sublimacao--polimero-sem-verniz-3-479005
 
 Nome:  Canetas 
-Preço: None
+Preço: None 
 URL: /canetas/1924/2332
 
 Nome:  Canudos de Papel 
